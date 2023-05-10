@@ -56,18 +56,25 @@ _February 2013 – October 2015_
 - Extended the SDK to support IoT line of business
 - Maintained a demo lab and collaborated closely with sales engineers
 
-## Education and Interesting Nontechnical Experience
+## Education and Interesting Non-technical Experience
 
 - **University of San Francisco — San Francisco, CA**
   - B.S. Computer Science, 2012
-  - member of the St. Ignatius Institute, an honors society and Great Books program
-  - captain of the improv team Awkward Silence, led to College Improv Tournament national finals
+  - Member of the St. Ignatius Institute, an honors society and Great Books program
+  - Captain of the improv team Awkward Silence, led to College Improv Tournament national finals
 - **Camp Galileo at Chabot Space and Science Center — Oakland, CA**
   - Assistant Instructor, 2012
+  - Taught rocketry and outdoor exploration to campers ranging from 4th to 6th grade
+  - Took responsibility for building and striking, every day, the decorated entranceway campers pass through each morning
 - **The Second City — Chicago, IL**
   – Touring Company Production Intern, 2011
+  - Performed operational, logistical, and research support for Second City's three touring companies
+  - Learned how revues are cast, written, produced, and marketed
 - **Disney Store — Chicago, IL**
   – Cast Member, 2009
+  - Learned customer service in the fast-paced retail environment of Disney's Michigan Avenue flagship store
+  - Provided friendly, cheerful, engaged service that preserved the magic
 - **Mercury Cruises — Chicago, IL**
   - Deckhand and for the Chicago Architecture Foundation Riverboat Tour, 2008
   - Dockside refreshments manager, 2004-2005
+  - Learned a lot of about the history of, and developed a love for, architecture
