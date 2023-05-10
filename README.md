@@ -1,14 +1,8 @@
-# Resume
-
-## Ed Harrison
-
-1010 Anza Street #302
+# Ed Harrison
 
 San Francisco, CA 94118
 
-(708) 912-5208
-
-ed@harrison.pizza || theeddieharrison@gmail.com
+ed [at] harrison [dot] pizza || theeddieharrison [at] gmail [dot] com
 
 ## Experience
 
